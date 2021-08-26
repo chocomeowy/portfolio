@@ -69,7 +69,7 @@ const Timeline = () => {
       <SectionText>
         A full stack developer who completed a 12 weeks bootcamp for Software
         Engineering with General Assembly. Tech enthusiast. Cypto & stocks
-        hodler. Gamer. Photographer.
+        hodler. Gamer. Photographer. Machine Learning.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
