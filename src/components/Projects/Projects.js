@@ -1,4 +1,5 @@
 import React from "react";
+import { FiChrome } from "react-icons/fi";
 import { AwesomeButtonSocial, AwesomeButton } from "react-awesome-button";
 import "react-awesome-button/dist/themes/theme-c137.css";
 import {
@@ -43,7 +44,7 @@ const Projects = () => (
           </div>
           <UtilityList>
             <AwesomeButton size="medium" type="secondary" href={project.visit}>
-              Site
+              <FiChrome /> Site
             </AwesomeButton>
             <AwesomeButtonSocial
               type="github"
