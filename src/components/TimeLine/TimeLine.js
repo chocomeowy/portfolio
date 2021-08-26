@@ -67,9 +67,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I'm a career switching from a tech adjacent role to a tech role. Took up
-        a 12 weeks bootcamp for Software Engineering with General Assembly
-        learning full stack web development and computer science fundamentals
+        A full stack developer who completed a 12 weeks bootcamp for Software
+        Engineering with General Assembly. Tech enthusiast. Cypto & stocks
+        hodler. Gamer. Photographer.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
