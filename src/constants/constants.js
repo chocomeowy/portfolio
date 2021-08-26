@@ -26,7 +26,7 @@ export const projects = [
       "Collaborated with teammates to create a full-stack MERN app that suggests points-of-interest nearby MRT stations with React front-end, ExpressJS-MongoDB-NodeJS back-end, powered by Google Maps API and Bulma CSS with deployment to Heroku.",
     image: "https://i.imgur.com/Uq2hgnT.png",
     tags: ["MERN", "React", "Express"],
-    source: "https://thetrainstops.herokuapp.com/",
+    source: "https://github.com/chocomeowy/TrainStops-MERN.app",
     visit: "https://thetrainstops.herokuapp.com/",
     id: 2,
   },
