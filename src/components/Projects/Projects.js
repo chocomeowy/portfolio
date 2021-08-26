@@ -42,14 +42,14 @@ const Projects = () => (
             </TagList>
           </div>
           <UtilityList>
-            <AwesomeButton size="medium" type="secondary" href={project.source}>
+            <AwesomeButton size="medium" type="secondary" href={project.visit}>
               Site
             </AwesomeButton>
             <AwesomeButtonSocial
               type="github"
               icon={true}
               size="medium"
-              href={project.visit}
+              href={project.source}
             >
               GitHub
             </AwesomeButtonSocial>

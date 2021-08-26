@@ -1,5 +1,5 @@
 import React from "react";
-
+import Link from "next/link";
 import {
   Section,
   SectionText,
@@ -17,7 +17,9 @@ const Hero = () => (
         Fah Jin
       </SectionTitle>
       <SectionText>Front End / Full Stack developer</SectionText>
-      <Button href="mailto:yongfahjin@hotmail.com">Contact Me</Button>
+      <Link href="#footer">
+        <Button>Contact Me</Button>
+      </Link>
     </LeftSection>
   </Section>
 );
