@@ -52,7 +52,7 @@ const Technologies = () => (
           <ListParagraph>
             Experienced with
             <br />
-            Figma
+            Figma / Git / Vercel / Heroku
           </ListParagraph>
         </ListContainer>
       </ListItem>
